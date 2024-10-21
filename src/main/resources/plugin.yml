@@ -1,0 +1,7 @@
+name: rainbow-six-siege-mc
+version: 1.0.0
+main: dev.luan.r6.RainbowPlugin
+api-version: '1.21.1'
+
+commands:
+  test:
